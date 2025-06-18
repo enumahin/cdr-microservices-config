@@ -1,0 +1,3 @@
+application:
+  description: "Demographic Production Environment"
+  version: "1.0.0"

@@ -1,0 +1,14 @@
+
+application:
+  description: "Patient Service Development Environment"
+  version: "1.0.0"
+
+logging:
+  level:
+    org:
+      hibernate:
+        SQL: DEBUG
+        type:
+          descriptor:
+            sql:
+              BasicBinder: TRACE
