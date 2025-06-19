@@ -3,7 +3,8 @@ application:
   description: "Metadata MicroService Development Environment."
   version: "1.0.0"
   contactDetails:
-    name: "Tech Lead"
+    name: "John Doe"
+    role: "Tech Lead"
     phone: "+44740398763"
   workDays:
     -  "Monday"
