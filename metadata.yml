@@ -1,6 +1,6 @@
 
 application:
-  description: "Metadata MicroService Development Environment"
+  description: "Metadata MicroService Development Environment."
   version: "1.0.0"
   contactDetail:
     name: "Tech Lead"
