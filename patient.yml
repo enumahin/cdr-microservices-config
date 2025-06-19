@@ -2,6 +2,13 @@
 application:
   description: "Patient Service Development Environment"
   version: "1.0.0"
+  contactDetail:
+    name: "Tech Lead"
+    phone: "+44740398763"
+  workDays:
+    -  "Monday"
+    -  "Wednesday"
+    -  "Friday":
 
 logging:
   level:
