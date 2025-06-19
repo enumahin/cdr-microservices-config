@@ -3,7 +3,7 @@ application:
   description: "Metadata MicroService Development Environment."
   version: "1.0.0"
   contactDetails:
-    name: "John Doe"
+    name: "John Doe Umar"
     role: "Tech Lead"
     phone: "+44740398763"
   workDays:
