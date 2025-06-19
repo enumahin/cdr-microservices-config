@@ -7,3 +7,6 @@ application:
   workDays:
     -  "Monday"
     -  "Wednesday"
+  contactDetail:
+    name: "Christian"
+    address: "Ikoyi Lagos"
