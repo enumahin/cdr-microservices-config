@@ -7,6 +7,7 @@ application:
     phone: "+44740398763"
   workDays:
     -  "Monday"
+    -  "Tuesday"
     -  "Wednesday"
     -  "Friday"
   email: "{cipher}4a67600e932b600c8eb01f6c455c402a270d890b180bd140a84f3bd84255368166fbb327e45f63c38a2f986389fd171b"
