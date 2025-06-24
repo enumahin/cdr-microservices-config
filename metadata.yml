@@ -1,5 +1,5 @@
 
-application:
+cdr-application:
   description: "Metadata MicroService Development Environment."
   version: "1.0.0"
   contactDetails:
