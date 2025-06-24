@@ -7,6 +7,7 @@ cdr-application:
     phone: "+44740398763"
   workDays:
     -  "Monday"
+    -  "Tuesday"
     -  "Wednesday"
     -  "Friday":
 
