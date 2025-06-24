@@ -9,7 +9,7 @@ cdr-application:
     -  "Monday"
     -  "Tuesday"
     -  "Wednesday"
-    -  "Friday":
+    -  "Friday"
 
 logging:
   level:
