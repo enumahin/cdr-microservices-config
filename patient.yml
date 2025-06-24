@@ -1,5 +1,5 @@
 
-application:
+cdr-application:
   description: "Patient Service Development Environment"
   version: "1.0.0"
   contactDetails:
