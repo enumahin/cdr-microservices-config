@@ -1,5 +1,3 @@
-
-
-application:
+cdr-application:
   description: "Metadata Service QA Environment"
   version: "1.0.0"
