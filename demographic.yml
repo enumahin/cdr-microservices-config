@@ -6,7 +6,7 @@ cdr-application:
     instance:
       hostname: localhost # change this to your hostname
     client:
-      fetchRegistry: true fetch registry details of other microservices
+      fetchRegistry: true # fetch registry details of other microservices
       registerWithEureka: true # Tells Eureka to register with Itself
       serviceUrl:
-        defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka
+        defaultZone: http://localhost:8761/eureka
