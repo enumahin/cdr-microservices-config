@@ -11,12 +11,3 @@ cdr-application:
     -  "Wednesday"
     -  "Friday"
 
-logging:
-  level:
-    org:
-      hibernate:
-        SQL: DEBUG
-        type:
-          descriptor:
-            sql:
-              BasicBinder: TRACE
